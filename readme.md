@@ -75,7 +75,7 @@
 ### 🎵 Currently Playing
 
 <div align="center">
-  <a href="https://open.spotify.com">
-    <img src="https://spotify-github-profile.kittinanx.com/api/run.jsx?uid=31ondwx4vhfw737v64ihhr2unkai&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true" alt="Spotify Now Playing" />
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31ondwx4vhfw737v64ihhr2unkai&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color_cover=false">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ondwx4vhfw737v64ihhr2unkai&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color_cover=false" alt="Spotify Now Playing" />
   </a>
 </div>
