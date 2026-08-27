@@ -7,6 +7,9 @@
     <a href="https://github.com/gorlock777">
       <img src="https://komarev.com/ghpvc/?username=gorlock777&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
     </a>
+    <a href="https://github.com/gorlock777?tab=followers">
+      <img src="https://img.shields.io/github/followers/gorlock777?label=Followers&style=flat-square&color=238636&logo=github" alt="Followers" />
+    </a>
     <img src="https://img.shields.io/badge/Status-Building%20Cool%20Stuff-brightgreen?style=flat-square" alt="Status" />
     <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%26%20Open%20Source-blueviolet?style=flat-square" alt="Focus" />
   </p>
@@ -47,21 +50,25 @@ const gorlock777 = {
 
 ---
 
-### 📊 GitHub Stats & Streaks
+### 📊 Activity & Insights
 
 <div align="center">
-  <a href="https://github.com/gorlock777">
-    <img src="https://github-readme-stats.vercel.app/api?username=gorlock777&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="gorlock777's GitHub Stats" />
-  </a>
-  <a href="https://github.com/gorlock777">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=gorlock777&theme=tokyonight&hide_border=true" alt="gorlock777's GitHub Streak" />
-  </a>
-  
-  <br/><br/>
-
-  <a href="https://github.com/gorlock777">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gorlock777&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
-  </a>
+  <table>
+    <tr>
+      <td align="center" width="200">
+        <b>🚀 Focus</b><br/>
+        <code>Full Stack / Web3 / AI</code>
+      </td>
+      <td align="center" width="200">
+        <b>⚡ Workflow</b><br/>
+        <code>CI/CD & GitHub Actions</code>
+      </td>
+      <td align="center" width="200">
+        <b>🌱 Open Source</b><br/>
+        <code>Continuous Learning</code>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
