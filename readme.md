@@ -76,6 +76,6 @@
 
 <div align="center">
   <a href="https://open.spotify.com">
-    <img src="https://spotify-github-profile.kittinanx.com/api/run.jsx?uid=gorlock777&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true" alt="Spotify Now Playing" />
+    <img src="https://spotify-github-profile.kittinanx.com/api/run.jsx?uid=31ondwx4vhfw737v64ihhr2unkai&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true" alt="Spotify Now Playing" />
   </a>
 </div>
