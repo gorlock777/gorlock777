@@ -1,9 +1,7 @@
 <div align="center">
 
-  <!-- Typing SVG Banner Header -->
-  <a href="https://github.com/gorlock777">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&multiline=true&width=650&height=100&lines=Hey+there!+I'm+gorlock777+👋;Crafting+Code+%7C+Solving+Problems+%7C+Shipping+Fast;Welcome+to+my+GitHub+Galaxy+🚀" alt="Typing SVG" />
-  </a>
+  <!-- Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,8&height=200&section=header&text=Hey%20there,%20I'm%20gorlock777%20👋&fontSize=38&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Open%20Source%20Enthusiast%20%7C%20Builder&descAlignY=62&descSize=18" width="100%" alt="Header" />
 
   <p align="center">
     <a href="https://github.com/gorlock777">
@@ -52,28 +50,18 @@ const gorlock777 = {
 ### 📊 GitHub Stats & Streaks
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=gorlock777&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="gorlock777's GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=gorlock777&theme=tokyonight&hide_border=true" alt="gorlock777's GitHub Streak" />
-      </td>
-    </tr>
-  </table>
+  <a href="https://github.com/gorlock777">
+    <img src="https://github-readme-stats.vercel.app/api?username=gorlock777&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="gorlock777's GitHub Stats" />
+  </a>
+  <a href="https://github.com/gorlock777">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=gorlock777&theme=tokyonight&hide_border=true" alt="gorlock777's GitHub Streak" />
+  </a>
   
-  <br/>
+  <br/><br/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gorlock777&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
-</div>
-
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gorlock777&theme=onedark&no-frame=true&no-bg=true&margin_w=15" alt="gorlock777 Trophies" />
+  <a href="https://github.com/gorlock777">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gorlock777&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
+  </a>
 </div>
 
 ---
@@ -120,29 +108,4 @@ const gorlock777 = {
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
 
-</div>
-
----
-
-### 🌐 Connect With Me
-
-<div align="center">
-  <a href="https://github.com/gorlock777" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://twitter.com" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://discord.com" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <sub>⭐️ Profile automatically updated by GitHub Actions. Feel free to star my repositories!</sub>
 </div>
