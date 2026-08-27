@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,8&height=180&section=header&text=gorlock777&fontSize=42&fontAlignY=40&desc=Full-Stack%20Developer%20&descAlignY=62&descSize=18" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,8&height=180&section=header&text=gorlock777&fontSize=42&fontAlignY=40&desc=Full-Stack%20Developer&descAlignY=62&descSize=18" width="100%" alt="Header" />
 
   <p align="center">
     <a href="https://github.com/gorlock777">
@@ -67,5 +67,15 @@
 <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,react,nextjs,tailwind,nodejs,express,postgres,mongodb,redis,docker,git,linux,vscode" alt="Skills" />
+  </a>
+</div>
+
+---
+
+### 🎵 Currently Playing
+
+<div align="center">
+  <a href="https://open.spotify.com">
+    <img src="https://spotify-github-profile.kittinanx.com/api/run.jsx?uid=gorlock777&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true" alt="Spotify Now Playing" />
   </a>
 </div>
