@@ -1,6 +1,6 @@
 <div align="center">
 
-  <!-- Awesome GitHub Profile Banner -->
+  <!-- Header Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,8&height=220&section=header&text=Hi%20there,%20I'm%20gorlock777%20👋&fontSize=38&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Open%20Source%20Enthusiast%20%7C%20Builder&descAlignY=62&descSize=18" width="100%" alt="Header Banner" />
 
   <p align="center">
@@ -28,26 +28,28 @@
 
 ---
 
-### 👨‍💻 About Me
+### 💫 About Me
 
-```javascript
-const gorlock777 = {
-  pronouns: "he/him",
-  code: ["JavaScript", "TypeScript", "Python", "C++", "Rust"],
-  technologies: {
-    frontEnd: ["React", "Next.js", "TailwindCSS", "HTML5/CSS3", "Vite"],
-    backEnd: ["Node.js", "Express", "FastAPI", "PostgreSQL", "MongoDB", "Redis"],
-    devOps: ["Docker", "Git", "GitHub Actions", "Linux"]
-  },
-  currentFocus: "Architecting scalable cloud systems & high-performance applications",
-  funFact: "My commits turn into food for the snake above! 🍎"
-};
-```
-
-- 🔭 I’m currently working on open-source tools and modern web applications
-- 🌱 I’m currently mastering distributed systems and cloud architecture
-- 💡 Passionate about clean code, high performance, and developer tooling
-- ⚡ Fun fact: I turn coffee into commits ☕ ➡️ 💻
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      <h3>👋 Welcome to my digital workspace!</h3>
+      <p>
+        I'm a full-stack developer dedicated to crafting sleek, intuitive interfaces and architecting high-performance backend systems.
+      </p>
+      <ul>
+        <li>🔭 <b>Currently Building:</b> High-scale web applications & developer tools</li>
+        <li>🌱 <b>Currently Exploring:</b> Distributed systems, Cloud Architecture & Rust</li>
+        <li>💬 <b>Ask Me About:</b> React, TypeScript, Python, Node.js, Docker & API design</li>
+        <li>🎯 <b>Goals:</b> Contributing to impactful open-source projects</li>
+        <li>⚡ <b>Motto:</b> <i>"Make it work, make it right, make it fast."</i></li>
+      </ul>
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius: 12px;" alt="Coding Animation" />
+    </td>
+  </tr>
+</table>
 
 ---
 
