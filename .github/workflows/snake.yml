@@ -11,10 +11,19 @@ on:
   # Allows manual execution anytime from the Actions tab
   workflow_dispatch:
   
-  # Run on every push to main
+  # Run on every push to main (excluding doc/asset-only commits)
   push:
     branches:
       - main
+    paths-ignore:
+      - "README.md"
+      - "readme.md"
+      - ".gitignore"
+      - "profile-3d-contrib/**"
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
 
 jobs:
   generate:
@@ -28,7 +37,7 @@ jobs:
       - name: Generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: gorlock777
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
@@ -38,7 +47,7 @@ jobs:
           
       # Push the generated SVG files to the output branch
       - name: Push snake SVG to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist

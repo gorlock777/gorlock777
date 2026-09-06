@@ -1,6 +1,7 @@
 <div align="center">
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,8&height=180&section=header&text=gorlock777&fontSize=42&fontAlignY=40&desc=Full-Stack%20Developer&descAlignY=62&descSize=18" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=2,14,23,30&height=170&section=header&text=gorlock777&fontSize=44&fontAlignY=40&desc=Crafting%20Robust%20Backends%20%26%20Scalable%20Apps&descAlignY=64&descSize=17" width="100%" alt="Header" />
 
   <p align="center">
     <a href="https://github.com/gorlock777">
@@ -67,7 +68,17 @@
 <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,react,nextjs,tailwind,nodejs,express,postgres,mongodb,redis,docker,git,linux,vscode" alt="Skills" />
+    <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,react,nextjs,tailwind,nodejs,express,postgres,mongodb,redis,docker,git,linux,vscode,steam" alt="Skills" />
   </a>
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" />
+  <img src="https://img.shields.io/badge/EA-FF4747?style=for-the-badge&logo=ea&logoColor=white" alt="EA" />
+  <img src="https://img.shields.io/badge/Ubisoft-000000?style=for-the-badge&logo=ubisoft&logoColor=white" alt="Ubisoft" />
+  <img src="https://img.shields.io/badge/Epic_Games-313131?style=for-the-badge&logo=epicgames&logoColor=white" alt="Epic Games" />
 </div>
 
 ---
