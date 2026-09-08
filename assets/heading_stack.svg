@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 340 40" width="340" height="40">
+  <defs>
+    <linearGradient id="grad_Technologies_&amp;_Tools" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#f8fafc"/>
+      <stop offset="60%" stop-color="#cbd5e1"/>
+      <stop offset="100%" stop-color="#60a5fa"/>
+    </linearGradient>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@700&amp;display=swap');
+      .heading-text {
+        font-family: 'Space Grotesk', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+        font-size: 20px;
+        font-weight: 700;
+        letter-spacing: -0.6px;
+        fill: url(#grad_Technologies_&amp;_Tools);
+      }
+      .accent-slash {
+        font-family: 'Space Grotesk', monospace;
+        font-size: 18px;
+        font-weight: 700;
+        fill: #60a5fa;
+      }
+    </style>
+  </defs>
+  <!-- Accent terminal slash marker -->
+  <text x="0" y="26" class="accent-slash">//</text>
+  <text x="24" y="26" class="heading-text">Technologies &amp; Tools</text>
+  <!-- Sleek underline indicator that tapers off -->
+  <rect x="24" y="34" width="36" height="2" rx="1" fill="#60a5fa" />
+</svg>
